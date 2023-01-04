@@ -1,0 +1,17 @@
+{
+    "name": "gustavo/patterns",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ghmb\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Barbosa",
+            "email": "gustavobarbosa-18@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
